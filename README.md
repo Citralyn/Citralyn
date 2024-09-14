@@ -4,8 +4,9 @@
     🌻 Welcome 🌻
   </div>
 </h1>
-
-![IMG_7968](https://github.com/user-attachments/assets/5ba90ec2-4a88-4911-8e30-308cb870021c)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/5ba90ec2-4a88-4911-8e30-308cb870021c" width=40%>
+</div>
 
 
 <!---
