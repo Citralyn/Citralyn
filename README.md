@@ -16,6 +16,43 @@
   </div>
 </p>
 
+
+Hi, I’m Alexa! Although I commonly go by “Citralyn” online as a tribute to Citra Terranova, the main character in the book series *Arc of a Scythe*. 📚📚📚
+
+I really enjoy coding in a group setting!
+
+<table>
+  <tr>
+    <td>
+
+### Here are some team projects I’m actively working on:
+- COURSE EATER - a four-year course planner web app for college students (ongoing)
+- INTERNSHIP COPILOT - an ai agent web app that helps with task management and job searching (ongoing)
+
+### Here are some team projects I’ve submitted for hackathons!
+- WHO’S THAT PETR - a quiz-like web game (ZotHacks 2023 - my first hackathon!)
+- NATURE NOOK - a web game to encourage healthy habits (IrvineHacks 2024)
+- CRITTER CREATIONS - an ai-powered web app which encourages awareness on wildlife conservation efforts (LA Hacks 2024) 
+- SHECOMMERCE - a women-centric ecommerce platform (VenusHacks 2024)
+- ASSIST SQUARED - a platform to help transfer students find and prep for equivalent UCI courses they’ve taken at their CC (VenusHacks 2025)
+
+### I’ve also tinkered around with a few solo projects:
+- CROWSUITE - a four player web game that follows the rules of Chinese Poker (https://crowsuite2.netlify.app/) 
+- ACM@UCI CLUB WEBSITE - the website for ACM@UCI for Fall 2025+ (in the works) 
+- CHORE DECIDE - a desktop application to plot and plan chore charts (made with Qt Creator!)
+
+    </td>
+    <td width="30%">
+      <img src="https://github.com/user-attachments/assets/a1ab2715-60ec-4157-a8f5-895b94d94c7d"/>
+    </td>
+  </tr>
+</table>
+<div align="center">
+  🐰---🐰---🐰---🐰---🐰---<img src="https://github.com/user-attachments/assets/23e76933-a036-4319-a562-690b66f9aacb" width="10%"/>---🐰---🐰---🐰---🐰---🐰
+
+
+</div>
+
 <!---
 Citralyn/Citralyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
