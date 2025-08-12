@@ -25,9 +25,9 @@ I really enjoy coding in a group setting!
   <tr>
     <td>
 
-### Here are some team projects I’m actively working on:
+### Here are some team projects I’m actively working on and/or have recently finished:
 - COURSE EATER - a four-year course planner web app for college students (ongoing)
-- INTERNSHIP COPILOT - an ai agent web app that helps with task management and job searching (ongoing)
+- INTERN PATH - an ai agent web app that helps with task management and job searching (entry for Dandilyonn Seeds 2025!)
 
 ### Here are some team projects I’ve submitted for hackathons!
 - WHO’S THAT PETR - a quiz-like web game (ZotHacks 2023 - my first hackathon!)
