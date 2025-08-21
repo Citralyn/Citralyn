@@ -6,7 +6,7 @@
 </h1>
 <div align="center">
     <img src="https://github.com/user-attachments/assets/d8a726da-94e2-477b-8d99-4c1982b20255" width=20%>
-    <img src="https://imgur.com/a/flowers-kowTmXj" width=40%>
+    <img src="[https://imgur.com/a/flowers-kowTmXj](https://i.imgur.com/VUAMCPZ.jpeg)" width=40%>
     <img src="https://github.com/user-attachments/assets/d8a726da-94e2-477b-8d99-4c1982b20255" width=20%>
 </div>
 
