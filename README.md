@@ -6,7 +6,7 @@
 </h1>
 <div align="center">
     <img src="https://github.com/user-attachments/assets/d8a726da-94e2-477b-8d99-4c1982b20255" width=20%>
-    <img src="https://i.imgur.com/VUAMCPZ.jpeg" width=40%>
+    <img src="https://github.com/user-attachments/assets/a1ab2715-60ec-4157-a8f5-895b94d94c7d" width=30%/>
     <img src="https://github.com/user-attachments/assets/d8a726da-94e2-477b-8d99-4c1982b20255" width=20%>
 </div>
 
@@ -38,18 +38,15 @@ I really enjoy coding in a group setting!
 
 ### I’ve also tinkered around with a few solo projects:
 - CROWSUITE - a four player web game that follows the rules of Chinese Poker (https://crowsuite2.netlify.app/) 
-- ACM@UCI CLUB WEBSITE - the website for ACM@UCI for Fall 2025+ (in the works) 
+- ACM@UCI CLUB WEBSITE - the website for ACM@UCI for Fall 2025+ (in the works, but here is a prototype: https://citralyn.github.io/acm_fall_web_test_813/) 
 - CHORE DECIDE - a desktop application to plot and plan chore charts (made with Qt Creator!)
 - DSA Grimoires - a silly website with writeups of a few clever programming problems I enjoyed solving (https://dsa-grimoires.netlify.app)
 
     </td>
-    <td width="30%">
-      <img src="https://github.com/user-attachments/assets/a1ab2715-60ec-4157-a8f5-895b94d94c7d"/>
-    </td>
   </tr>
 </table>
 <div align="center">
-  🐰---🐰---🐰---🐰---🐰---<img src="https://github.com/user-attachments/assets/23e76933-a036-4319-a562-690b66f9aacb" width="10%"/>---🐰---🐰---🐰---🐰---🐰
+  🐰---🐰---🐰---🐰---🐰---🥕---🐰---🐰---🐰---🐰---🐰
 
 
 </div>
