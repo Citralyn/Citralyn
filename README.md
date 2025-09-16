@@ -3,8 +3,8 @@
 
 
 ## 🐰📚 About Me 📚🐰
-- I’m a 3rd year Computer Science student at UC Irvine, currently interested in full stack web development and system administration. 
-- I love developing easy-to-read documentation and clean, functional code. Communication is essential in being a good software engineer!
+- I’m a 3rd year Computer Science student at UC Irvine, currently interested in full stack web development and systems engineering.
+- I love developing easy-to-read documentation and clean, functional code. Communication is essential to being a good software engineer!
 ---
 
 <p>
