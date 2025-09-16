@@ -1,25 +1,28 @@
+# Hi, I'm Alexa!
 
-<h1>
-  <div align="center">
-    🌻 Welcome 🌻
-  </div>
-</h1>
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/d8a726da-94e2-477b-8d99-4c1982b20255" width=20%>
-    <img src="https://github.com/user-attachments/assets/a1ab2715-60ec-4157-a8f5-895b94d94c7d" width=30%/>
-    <img src="https://github.com/user-attachments/assets/d8a726da-94e2-477b-8d99-4c1982b20255" width=20%>
-</div>
+---
 
-<p>
-  <div align="center">
-    Sunflower gif from <a href="https://www.courtneypage.co.uk">Courtney Page</a> on <a href="https://giphy.com/stickers/flower-sunflower-courtneypageart-dwRw5i7ayVanMnrec0">Giphy</a>
-  </div>
+
+## 🐰📚 About Me 
+- I’m a 3rd year Computer Science student at UC Irvine, currently interested in full stack web development and system administration. 
+- I love developing easy-to-read documentation and clean, functional code. Communication is essential in being a good software engineer!
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,java,nodejs,express,mongodb,postgresql,docker,git,linux,c++&perline=6" />
 </p>
 
+---
 
-Hi, I’m Alexa! Although I commonly go by “Citralyn” online as a tribute to Citra Terranova, the main character in the book series *Arc of a Scythe*. 📚📚📚
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Citralyn&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Citralyn&theme=tokyonight" alt="GitHub streak" />
+</p>
 
-I really enjoy coding in a group setting!
+---
 
 <table>
   <tr>
@@ -46,13 +49,10 @@ I really enjoy coding in a group setting!
   </tr>
 </table>
 <div align="center">
-  🐰---🐰---🐰---🐰---🐰---🥕---🐰---🐰---🐰---🐰---🐰
 
 
-</div>
 
-<!---
-Citralyn/Citralyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+## 🌐 Connect with Me
+<p>
+  <a href="https://linkedin.com/in/alexa-v-duffy"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+</p>
