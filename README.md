@@ -1,17 +1,19 @@
 # Hi, I'm Alexa!
-
 ---
 
 
-## 🐰📚 About Me 
+## 🐰📚 About Me 📚🐰
 - I’m a 3rd year Computer Science student at UC Irvine, currently interested in full stack web development and system administration. 
 - I love developing easy-to-read documentation and clean, functional code. Communication is essential in being a good software engineer!
-
 ---
+
+<p>
+  Connect with me on <a target="_blank" href="https://www.linkedin.com/in/alexa-v-duffy">LinkedIn</a>!
+</p>
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,python,java,nodejs,express,mongodb,postgresql,docker,git,linux,c++&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,java,nodejs,express,mongodb,postgresql,docker,git,linux,cpp,golang,html,css,flask,apple,vite,bash,vscode,sublime,qt,mysql,vim,sass&perline=13" />
 </p>
 
 ---
@@ -41,7 +43,7 @@
 
 ### I’ve also tinkered around with a few solo projects:
 - CROWSUITE - a four player web game that follows the rules of Chinese Poker (https://crowsuite2.netlify.app/) 
-- ACM@UCI CLUB WEBSITE - the website for ACM@UCI for Fall 2025+ (in the works, but here is a prototype: https://citralyn.github.io/acm_fall_web_test_813/) 
+- ACM@UCI CLUB WEBSITE - the website for ACM@UCI for Fall 2025+ (in the works!)
 - CHORE DECIDE - a desktop application to plot and plan chore charts (made with Qt Creator!)
 - DSA Grimoires - a silly website with writeups of a few clever programming problems I enjoyed solving (https://dsa-grimoires.netlify.app)
 
@@ -49,10 +51,3 @@
   </tr>
 </table>
 <div align="center">
-
-
-
-## 🌐 Connect with Me
-<p>
-  <a href="https://linkedin.com/in/alexa-v-duffy"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-</p>
