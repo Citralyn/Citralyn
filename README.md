@@ -43,7 +43,7 @@
 
 ### I’ve also tinkered around with a few solo projects:
 - CROWSUITE - a four player web game that follows the rules of Chinese Poker (https://crowsuite2.netlify.app/) 
-- ACM@UCI CLUB WEBSITE - the website for ACM@UCI for Fall 2025+ (in the works!)
+- ACM@UCI CLUB WEBSITE - the website for ACM@UCI for Fall 2025+ (https://www.acm-uci.org/)
 - CHORE DECIDE - a desktop application to plot and plan chore charts (made with Qt Creator!)
 - DSA Grimoires - a silly website with writeups of a few clever programming problems I enjoyed solving (https://dsa-grimoires.netlify.app)
 
